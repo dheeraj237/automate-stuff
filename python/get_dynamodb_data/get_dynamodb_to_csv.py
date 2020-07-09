@@ -1,5 +1,5 @@
 """
-Create CSV from database items
+Create CSV from aws database items
 """
 import time
 from datetime import datetime
